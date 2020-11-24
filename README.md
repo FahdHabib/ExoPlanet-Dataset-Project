@@ -16,3 +16,5 @@ For Classification:
 •	Preprocessing.
 •	Model Selection (KNN, Min Dist., Bayesian, D.T, SVM, Ensemble [any 4]).
 •	Performance (Sensitivity, Precision, ROC curve, Confusion Matrix).
+
+GitHub Training Addition
